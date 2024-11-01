@@ -1,10 +1,4 @@
-<!DOCTYPE html>
-<html lang="de">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Client Installer Download</title>
-    <style>
+<style>
         body {
             background-color: darkblue; /* Hellblau für den Hintergrund */
             font-family: sans-serif;
